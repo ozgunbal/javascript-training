@@ -5,7 +5,7 @@
 // Popular interview question: What's the output and why?
 for (var i = 0; i < 5; i++) {
     setTimeout(function () {
-        console.log(j);
+        console.log(i);
     });
 };
 
