@@ -4,3 +4,4 @@ This repository is made for collecting training material related to javascript. 
 ## Contents
 - [Week 1](https://github.com/ozgunbal/javascript-training/blob/master/week-1) - Introduction to JS Ecosystem & Language Quirks
 - [Week 2](https://github.com/ozgunbal/javascript-training/blob/master/week-2) - Scope & Closures
+- [Week 3](https://github.com/ozgunbal/javascript-training/blob/master/week-3) - this & Object prototypes
