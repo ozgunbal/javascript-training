@@ -1,0 +1,11 @@
+console.log(Object.prototype.toString.call( "abc" ));
+console.log(Object.prototype.toString.call( 42 ));
+console.log(Object.prototype.toString.call( true ));
+console.log(Object.prototype.toString.call( [1,2] ));
+console.log(Object.prototype.toString.call( {} ));
+console.log(Object.prototype.toString.call( function foo(){} ));
+console.log(Object.prototype.toString.call( null ));
+console.log(Object.prototype.toString.call( new Error() ));
+console.log(Object.prototype.toString.call( new Date() ));
+console.log(Object.prototype.toString.call( new RegExp() ));
+console.log(Object.prototype.toString.call( Symbol() ));
