@@ -6,3 +6,5 @@ This repository is made for collecting training material related to javascript. 
 - [Week 2](https://github.com/ozgunbal/javascript-training/blob/master/week-2) - Scope & Closures
 - [Week 3](https://github.com/ozgunbal/javascript-training/blob/master/week-3) - this & Object prototypes
 - [Week 4](https://github.com/ozgunbal/javascript-training/blob/master/week-4) - Types & Grammar
+- [Week 5](https://github.com/ozgunbal/javascript-training/blob/master/week-5) - Async & Performance
+- [Week 6](https://github.com/ozgunbal/javascript-training/blob/master/week-6) - ES6

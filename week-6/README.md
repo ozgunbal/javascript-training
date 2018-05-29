@@ -1,4 +1,4 @@
-## Async and Performance
+## ES6
 [Slide link](https://slides.com/ozgunbal/deck-10)  
 [Demo Codes](https://github.com/ozgunbal/javascript-training/blob/master/week-6/code)
 ### Contents
